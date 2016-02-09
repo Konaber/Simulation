@@ -1,3 +1,3 @@
 clear;
-finiteDiffernceTimestamp(1,0.01,1,1000)
+finiteDiffernceTimestamp(0.25,0.001,1,10000)
 
